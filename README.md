@@ -34,7 +34,7 @@
 
 Neste desafio, continuamos a desenvolver a aplicação de gestão de transações GoFinances para praticarmos conceitos de React.js juntamente com Typescript e uplad de arquivos através de formulário.
 
-A aplicação devera se conectar ao backend do [Desafio 06](https://github.com/cintiazago/gostack-desafio06-typeorm-upload), e exibir as transações criadas e permitir a importação de um arquivo CSV para gerar novos registros no banco de dados.
+A aplicação devera se conectar ao backend do [Desafio 06](https://github.com/ChristySchott/gostack-desafio-databaseupload), e exibir as transações criadas e permitir a importação de um arquivo CSV para gerar novos registros no banco de dados.
 
 
 ## 🔨 Tecnologias:
