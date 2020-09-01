@@ -56,7 +56,7 @@ O projeto é composto por duas aplicações:
 1. Back-End ([Link do Repositório](https://github.com/ChristySchott/gostack-desafio-databaseupload))
 2. Front-End
 
-💡 E preciso efetuar o clone e seguir os passos de instalação do [Repositório da API](https://github.com/cintiazago/gostack-desafio06-typeorm-upload)
+💡 E preciso efetuar o clone e seguir os passos de instalação do [Repositório da API](https://github.com/ChristySchott/gostack-desafio-databaseupload)
 
 💡 O Front-End precisa que o Back-End esteja sendo executado na porta 3333 para funcionar.
 
